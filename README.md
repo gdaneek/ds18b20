@@ -1,7 +1,7 @@
 # ds18b20
 Library for working with the ds18b20 sensor
 
-Suitable for any ATmega and ATtiny series microcontrollers
+For any ATmega and ATtiny series microcontrollers
 
 Takes up very little memory (less than 1KB)
 
@@ -18,3 +18,5 @@ Software:
 -> use the begin() method with a parameter indicating the pin on which the sensor is located
 
 -> use the getTemperature() method to get the temperature as a floating point number
+
+-> test example.ino
