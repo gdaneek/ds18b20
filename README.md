@@ -15,7 +15,7 @@ Software:
 
 -> create an object of the ds18b20 class
 
--> use the begin() method with a parameter indicating the pin on which the sensor is located
+-> use the constructor with a parameter indicating the pin on which the sensor is located
 
 -> use the getTemperature() method to get the temperature as a floating point number
 
