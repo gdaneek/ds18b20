@@ -1,5 +1,6 @@
 # ds18b20
-*Library for working with the ds18b20 sensor
+
+Library for working with the ds18b20 sensor
 
 For any ATmega and ATtiny series microcontrollers
 
